@@ -14,4 +14,5 @@ function abrirmenu() {
 
 function fecharmenu() {
     body.classList.remove("escurecer")
+    nav.classList.remove("abrir")
 }
